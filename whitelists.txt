@@ -1,3 +1,4 @@
-dns.msftncsi.com
-www.msftncsi.com
+# Microsoft's network connectivity check domain
+
 msftncsi.com
+dns.msftncsi.com
